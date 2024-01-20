@@ -1,0 +1,15 @@
+cout << "Select one of the following options number..." << endl;
+    cout << "1. \t\tSearch Product" << endl;
+    cout << "2. \t\tProduct Under Budget" << endl;
+    cout << "3. \t\tProduct Details" << endl;
+    cout << "4. \t\tAdd to Cart" << endl;
+    cout << "5. \t\tRemove from Cart" << endl;
+    cout << "6. \t\tShow Cart" << endl;
+    cout << "7. \t\tPlace Order" << endl;
+    cout << "8. \t\tGenerate Bill" << endl;
+    cout << "9.\t\tTrack Order" << endl;
+    cout << "10.\t\tGive Review" << endl;
+    cout << "11.\t\tReturn Item\n";
+    cout << "12.\t\tExit" << endl;
+    cout << "Your Option...";
+    cin >> option;
